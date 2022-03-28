@@ -12,10 +12,10 @@
   "keywords": [],
   "author": "zhangyuchen",
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/Rainchen0504/Vue2-cli.git",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Rainchen0504/Vue2-cli.git"
   },
   "dependencies": {
     "commander": "^9.1.0",
