@@ -1,5 +1,5 @@
 {
-  "name": "createmycli",
+  "name": "rain",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
@@ -18,9 +18,9 @@
     "url": "https://github.com/Rainchen0504/Vue2-cli.git"
   },
   "dependencies": {
-    "commander": "^9.1.0",
+    "commander": "^6.1.0",
     "download-git-repo": "^3.0.2",
-    "ejs": "^3.1.6",
-    "open": "^8.4.0"
+    "ejs": "^3.1.5",
+    "open": "^7.3.0"
   }
 }
