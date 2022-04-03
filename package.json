@@ -1,6 +1,6 @@
 {
-  "name": "rain",
-  "version": "1.1.0",
+  "name": "rainvuecli",
+  "version": "1.1.5",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -9,9 +9,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "rain",
+    "zhangyuchen",
+    "vue"
+  ],
   "author": "zhangyuchen",
-  "license": "ISC",
+  "license": "MIT",
   "homepage": "https://github.com/Rainchen0504/Vue2-cli.git",
   "repository": {
     "type": "git",
